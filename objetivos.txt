@@ -1,0 +1,12 @@
+criar uma finalizalão {
+    local que detecta se voce terminou o mapa
+    pontos para coletar
+}
+mais visuais {
+    visual de explosão
+}
+mais inimigos e mapas {
+    inimigos com funcionalidades diferentes do atual;
+    mapas com funcionalidades e design diferentes;
+    sistema de teleporte;
+}
